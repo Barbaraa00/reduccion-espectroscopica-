@@ -1,0 +1,17 @@
+# Datos pesados (no subir a GitHub)
+*.fits
+*.fit
+*.fits.gz
+*.fz
+datos/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store

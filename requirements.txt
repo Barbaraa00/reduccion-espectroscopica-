@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+astropy
+jupyter
+# Agrega aquí las librerías específicas de tus pipelines (por ejemplo ccdproc, specutils, pyraf)
